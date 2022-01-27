@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IamYogesh18
+- 👋 Hi, I’m Yogeshwar
 - 👀 I’m interested in Technology and science 
 - 🌱 I’m currently learning B.tech ece at Vit Vellore 
 - 💞️ I’m looking Forward to learn Codings 
